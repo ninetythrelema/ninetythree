@@ -1,0 +1,142 @@
+html {
+	background: url(https://www.itl.cat/pics/b/4/41580_kabbalah-wallpaper.jpg) no-repeat center center fixed; 
+	background-size: cover; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+}
+
+body {
+	text-align: center;
+}
+
+
+h1 {
+	text-align: center;
+	color: black;
+	border: 5px solid black;
+	background-color: rgba( 85, 78, 0, 0.6);
+}
+
+footer {
+	color: black;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.imgqab {
+	background-color: rgba( 85, 78, 0, 0.6);
+	border: 2px solid black;
+	margin: 200px 25px;
+	transition: all 1s;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+  	left: 1;
+  	right: 0;
+}
+
+.imgqab:hover {
+	transform: scale(1.15);
+}
+
+.imgjung {
+	background-color: rgba( 85, 78, 0, 0.6);
+	border: 2px solid black;
+	margin: 200px 25px;
+	transition: all 1s;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+  	left: 0;
+  	right: 0;
+}
+
+.imgjung:hover {
+	transform: scale(1.15);
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(53, 79, 0);
+	font-weight: bold;
+	font-family: helvetica;
+}
+
+.links li {
+	text-align: center;
+	list-style: none;
+	display: inline;
+	padding-right: 20px;
+	font-family: helvetica;
+}
+
+.humanpsyche {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin-right: 20em;
+	margin-left: 20em;
+	padding-left: 7px;
+	padding-right: 7px;
+	margin-top: 35px;
+	font-family: helvetica;
+}
+
+.neshamah {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin-right: 20em;
+	margin-left: 20em;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-family: helvetica;
+}
+
+.ruach {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin-right: 20em;
+	margin-left: 20em;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-family: helvetica;
+}
+
+.nephesh {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin-right: 20em;
+	margin-left: 20em;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-family: helvetica;
+}
+
+.guph {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin-right: 20em;
+	margin-left: 20em;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-family: helvetica;
+}
+
+.sum {
+	background-color: rgba( 85, 78, 0, 0.6);
+	text-align: left;
+	border: 2px solid black;
+	margin: 0em 20em;
+	padding: 7px;
+	font-family: helvetica;
+}
+
